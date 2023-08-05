@@ -10,7 +10,7 @@ Ahamed Safnaj is a Software Engineer at Sysco LABS in Sri Lanka. He has also tak
 
 - Twitter: <a href="https://twitter.com/iamSafnaj/">@iamSafnaj</a>
 - Instagram: <a href="https://www.instagram.com/iam_safnaj/">@iam_safnaj</a>
-- Linkedin: <a href="https://www.linkedin.com/in/ahamed-safnaj/">in/ahamed-safnaj/</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/ahamed-safnaj/">in/ahamed-safnaj/</a>
 - Mail id: <a href="mailto:safnaj99@gmail.com">safnaj99@gmail.com</a>
 
 # Safnaj's Headshot

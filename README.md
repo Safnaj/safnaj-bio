@@ -15,8 +15,9 @@ Ahamed Safnaj is a Senior Software Engineer at Sysco LABS and serves as a Co-Lea
 
 # Safnaj's Headshot
 
-You can select any of the picture you see a perfect fit for the poster/banner from below link.
-- <a href="#">On the way</a>
+You can select any of the picture you see a perfect fit for the poster/banner from below.
+
+![DSC_3479_Original 2](https://github.com/Safnaj/safnaj-bio/assets/37530024/2055857d-8d52-4435-909c-6504eda57fd9)
 
 - - -
 

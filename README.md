@@ -1,6 +1,6 @@
 # Safnaj's Bio
 
-Ahamed Safnaj is a Senior Software Engineer at Sysco LABS and serves as a Co-Lead in the thriving GitHub Community Sri Lanka. With a wealth of experience and expertise, he has been invited to speak at numerous conferences and meetups, covering topics ranging from open-source to the GitHub Ecosystem. Beyond his speaking engagements, Safnaj is a dedicated contributor to open-source projects and finds great joy in mentoring aspiring students. His commitment to assisting others and his passion for technology make him a valuable member of the global tech community.
+Safnaj is a Senior Software Engineer at Sysco LABS and Co-Lead of the GitHub Community Sri Lanka. Passionate about technology and open-source, he has delivered talks at various conferences and meetups on topics like open-source contributions and the GitHub ecosystem. An active open-source contributor and mentor, he takes pride in guiding aspiring developers and fostering their growth. With his dedication to community building and empowering others, Safnaj continues to make a meaningful impact in the global tech community.
 
 # Safnaj's Education
 

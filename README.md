@@ -1,6 +1,14 @@
 # Safnaj's Bio
 
-Safnaj is an Associate Technical Lead at Sysco LABS and serves as a Co-Lead in the thriving GitHub Community Sri Lanka. With a wealth of experience and expertise, he has delivered talks at numerous conferences and meetups, covering topics ranging from open-source to the GitHub Ecosystem. Beyond his speaking engagements, Safnaj is a dedicated contributor to open-source projects and finds great joy in mentoring aspiring students. His commitment to assisting others and his passion for technology make him a valuable member of the global tech community.
+Safnaj is an **Associate Technical Lead at Sysco LABS**, a **Microsoft MVP – Developer Technologies**, He is passionate about software engineering, developer technologies, AI-assisted development, cloud technologies, and open source. He has spoken at conferences, meetups, and community events, sharing practical knowledge across topics including the GitHub ecosystem, GitHub Copilot, Ai Agents and modern software development practices.
+
+Beyond speaking, Safnaj actively contributes to the developer community through mentoring, organizing technical events, and supporting aspiring developers and university students. He enjoys helping others learn, build better software, and grow their careers in technology.
+
+## Recognition
+
+- 🏆 **Microsoft MVP – Developer Technologies**
+- 🌐 **Co-Lead - GitHub Community Sri Lanka**
+- 🎓 **GitHub Campus Expert - (Alumni)**
 
 # Safnaj's Education
 
@@ -17,7 +25,16 @@ BSc(Hons) in Information Technology specialization in Software Engineering - SLI
 
 You can select any of the picture you see a perfect fit for the poster/banner from below.
 
-<img src="https://github.com/Safnaj/safnaj-bio/assets/37530024/2055857d-8d52-4435-909c-6504eda57fd9" width="300" height="300">
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Safnaj/safnaj-bio/assets/37530024/2055857d-8d52-4435-909c-6504eda57fd9" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/6f01285f-5251-41a8-8fe2-4ecd0ef0a9dc" width="300">
+    </td>
+  </tr>
+</table>
 
 - - -
 

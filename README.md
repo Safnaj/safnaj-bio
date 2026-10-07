@@ -28,7 +28,8 @@ You can select any of the picture you see a perfect fit for the poster/banner fr
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Safnaj/safnaj-bio/assets/37530024/2055857d-8d52-4435-909c-6504eda57fd9" width="300">
+      <!-- <img src="https://github.com/Safnaj/safnaj-bio/assets/37530024/2055857d-8d52-4435-909c-6504eda57fd9" width="300"> -->
+      <img src="https://github.com/user-attachments/assets/6cc14e01-1fe3-4628-8a39-62fcb215053f" width="300">
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/6f01285f-5251-41a8-8fe2-4ecd0ef0a9dc" width="300">

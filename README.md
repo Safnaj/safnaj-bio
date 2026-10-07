@@ -1,4 +1,4 @@
-# Safnaj's Bio
+## Safnaj's Bio
 
 Safnaj is an **Associate Technical Lead at Sysco LABS**, a **Microsoft MVP – Developer Technologies**, He is passionate about software engineering, developer technologies, AI-assisted development, cloud technologies, and open source. He has spoken at conferences, meetups, and community events, sharing practical knowledge across topics including the GitHub ecosystem, GitHub Copilot, Ai Agents and modern software development practices.
 
@@ -10,18 +10,18 @@ Beyond speaking, Safnaj actively contributes to the developer community through 
 - 🌐 **Co-Lead - GitHub Community Sri Lanka**
 - 🎓 **GitHub Campus Expert - (Alumni)**
 
-# Safnaj's Education
+## Safnaj's Education
 
 BSc(Hons) in Information Technology specialization in Software Engineering - SLIIT
 
-# Safnaj's Socials
+## Safnaj's Socials
 
 - Twitter: <a href="https://twitter.com/iamSafnaj/">@iamSafnaj</a>
 - Instagram: <a href="https://www.instagram.com/iam_safnaj/">@iam_safnaj</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/ahamed-safnaj/">in/ahamed-safnaj/</a>
 - Mail id: <a href="mailto:safnaj99@gmail.com">safnaj99@gmail.com</a>
 
-# Safnaj's Headshot
+## Safnaj's Headshot
 
 You can select any of the picture you see a perfect fit for the poster/banner from below.
 
